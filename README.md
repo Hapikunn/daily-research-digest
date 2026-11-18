@@ -5,6 +5,7 @@ CVに基づく毎日の研究ダイジェストのアーカイブ。1日1ファ�
 ## 一覧
 
 - [2026-11-17](digests/2026-11-17.md) — AlphaGenome 2、Evo2VED、AutoDNA、SAEへの警告ほか全9件
+- [2026-11-18](digests/2026-11-18.md) — ゲノム設計レビュー、BryoCAD、MicroDUET、セルフリーGPCRほか全7件
 
 ## 状態
 
