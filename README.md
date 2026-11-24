@@ -11,6 +11,7 @@ CVに基づく毎日の研究ダイジェストのアーカイブ。1日1ファ�
 - [2026-11-21](digests/2026-11-21.md) — Evo 2のfew-shot生成設計、AI配列設計の多層防御、合成ミニマルプロモーターほか全8件
 - [2026-11-22](digests/2026-11-22.md) — VHSeek、B-RANKO（ncRNA基盤モデル）、BioTIER、SAEステアリングのタイミングほか全7件
 - [2026-11-23](digests/2026-11-23.md) — METRの能力評価、タンパク質-DNA言語モデルPDLM、ヒトB細胞の連続定向進化CODE-HBほか全6件
+- [2026-11-24](digests/2026-11-24.md) — RSMBind、ORB-TXTL、Biomni Labの監査ほか全4件
 
 ## 状態
 
